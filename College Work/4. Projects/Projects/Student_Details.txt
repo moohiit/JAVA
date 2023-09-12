@@ -1,0 +1,13 @@
+Student Name: Gaurav Patel
+College Email ID: gp4700001@gmail.com
+Branch: CSE
+Section: Section-A
+Mobile No: 8979154758
+Branch : CSE
+Courses : MCA
+Branch :   
+Courses :   
+Branch :   
+Courses :   
+Branch : Others
+Courses : BCA
